@@ -10,7 +10,7 @@ Berikut adalah Laporan Resmi Praktikum Komunikasi Data & Jaringan Komputer Modul
 
 ## Topologi
 
-(screenshot)
+<img width="1280" alt="topologi" src="https://github.com/asnan-xrz/Jarkom-Modul-3-IT33-2024/assets/133721836/d2ec3501-aefb-4fa8-a349-bb82c6f37d13">
 
 ## Konfigurasi
 Lakukan konfigurasi sesuai dengan peta yang sudah diberikan.
@@ -273,7 +273,8 @@ echo "$harkonen" > /etc/bind/jarkom/harkonen.it33.com
 service bind9 restart
 service bind9 status
 ```
-(screenshot)
+<img width="496" alt="tes ping" src="https://github.com/asnan-xrz/Jarkom-Modul-3-IT33-2024/assets/133721836/df9a75f4-d155-4f23-a471-d6ce84c99292">
+
 
 ## Nomor 2-5
 
@@ -349,9 +350,9 @@ service isc-dhcp-server restart
 service isc-dhcp-server status
 ```
 
-## Pada Client `Dmitri` dan `Paul`
+## Pada Client
 
-(screenshot)
+<img width="1005" alt="tes udhcp client" src="https://github.com/asnan-xrz/Jarkom-Modul-3-IT33-2024/assets/133721836/770a1a8c-58ab-4fda-9f80-b60825824987">
 
 ## Nomor 6
 
